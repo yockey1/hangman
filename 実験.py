@@ -1,5 +1,4 @@
 import this
-<<<<<<< HEAD
 import re
 
 l="この禅は似非禅だ"
